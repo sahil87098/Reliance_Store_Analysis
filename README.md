@@ -5,5 +5,11 @@
 
 ## Key Features
 ### 1. Sales Performance Analysis
+#### Tracks sales trends over time to better understand seasonality and demand swings.
+#### Highlights the best-performing items and brands based on measures such as revenue, profit margin, and unit sales.
+#### Comparing product retail prices to costs gives a good picture of profit possibilities and pricing strategies.
 
-#### * Tracks sales trends over time to better understand seasonality and demand swings.
+### 2. Returns Analysis
+#### Analyzes product return trends, including frequency, amount, and store-level patterns.
+#### To determine the variables driving returns, compare product features such as weight, recyclability, and low-fat alternatives to return rates.
+#### Visualises return hotspots, allowing firms to focus on supply chain or product quality issues.
