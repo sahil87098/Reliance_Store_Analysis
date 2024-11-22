@@ -1,7 +1,7 @@
 # Reliance Store Analysis
 
 ## Project Overview
-### This project includes a detailed Power BI report that analyzes retail sales and returns trends, providing insights into product performance and operational efficiencies. The report, which focuses on actionable analytics and dynamic interactivity, is a useful tool for firms looking to optimize strategy and make educated decisions.
+#### This project includes a detailed Power BI report that analyzes retail sales and returns trends, providing insights into product performance and operational efficiencies. The report, which focuses on actionable analytics and dynamic interactivity, is a useful tool for firms looking to optimize strategy and make educated decisions.
 
 ## Key Features
 ## 1. Sales Performance Analysis
@@ -29,4 +29,4 @@
 
 
 ## Conclusion
-### This project demonstrates the use of Power BI as a versatile tool for data analysis, visualization, and strategic decision support in the retail industry. It emphasizes the promise of data-driven approaches to addressing complex business challenges, while also providing a flexible basis for future growth or adaption.
+#### This project demonstrates the use of Power BI as a versatile tool for data analysis, visualization, and strategic decision support in the retail industry. It emphasizes the promise of data-driven approaches to addressing complex business challenges, while also providing a flexible basis for future growth or adaption.
